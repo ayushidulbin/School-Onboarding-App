@@ -1,0 +1,186 @@
+.homepage{
+    transform: translate(30%,10%);
+    margin-left: 5px;
+    border: 2px solid black;
+    width: 60%;
+    padding: 10px;
+    background-color: #FAF0E6;
+    
+    
+}
+.App{
+    transform: translate(10%,1%);
+    margin-left: 5px;
+    border: 2px solid black;
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color:#ADD8E6 ;
+    
+}
+.Login{
+    transform :translate(90%,30%);
+    border:2px solid black;
+    padding:20px 40px 40px 40px ;
+    width: 30%;
+    background-color: #87CEFA;
+}
+.Login input{
+    padding: 20px 10px 10px 10px;
+    border-radius: 12px;
+    border:1px solid black;
+    margin-bottom: 20px;
+    width: 90%;
+    font-size: 19px;
+    }
+.Login button{
+    padding: 10px 10px 10px 10px;
+    border-radius: 12px;
+    width: 100px;
+}
+.Login p{
+    font-size: 32px;
+    color:#00008B;
+}
+.hr{
+    border-top: 2 px solid black;
+   
+}
+.lgout{
+    float:right;
+    
+}
+.usrname{
+    color: cornflowerblue;
+    float: right;
+    margin-right: 40px;
+}
+.edit{
+    transform: translate(40%,10%);
+    margin-left: 5px;
+    border: 2px solid black;
+    width: 50%;
+    padding: 10px;
+    
+}
+.btnhome{
+    background-color:gray;
+    border:none;
+    color: white;
+    text-align: center;
+    margin-left:2px;
+    font-size: 16px;
+    padding:10px 10px 10px 10px;
+}
+.btnhome:focus{
+background-color: darkcyan;
+color: white;
+}
+/* .container{
+    padding: 20px 10px 20px 30px
+} */
+.ckbox{
+    display: inline-block;
+    font-size: 18px;
+    /* margin-right: 30%; */
+}
+.container label{
+    margin-bottom: 20px;
+    display: inline-block;
+    width: 250px;
+    font-size: 18px;
+   
+   
+}
+.searchbox{
+    float:right;
+}
+.searchcateg{
+ padding: 0px 10px 10px 10px;
+ margin-bottom: 10px;
+}
+.error{
+    font-size: 12px;
+    color: red;
+    margin-bottom: 8px;
+    
+}
+.ckbox span{
+    color: red;
+}
+.inpt{
+    
+    display: inline-block;
+    width: 310px;
+    height: 20px;
+    font-size: 15px;
+   
+   
+}
+.form-control {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8px;
+    
+ }
+ 
+ .studentCard{
+     border: 1px solid black;
+     
+     border-radius: 20px;
+     padding: 10px 10px 10px 10px;
+     background-color:#BC8F8F;
+ }
+ .studentCard2{
+    border: 1px solid black;
+   
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    background-color:#F5DEB3;
+}
+ .StudentCardCon{
+     padding: 10px 10px 10px 10px;
+     
+ }
+ .ViewPage{
+    padding: 20px 0px 20px 50px;
+    
+    
+}
+.FieldLHS{
+    margin-bottom: 5px;
+    display: inline-block;
+    width:250px;
+    font-size: 20px;
+    color: #000080;
+}
+.FieldRHS{
+    font-size: 20px;
+}
+.btnView{
+    background-color: green;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    width:50px;
+    border: none;
+    margin-left: 10px;
+}
+.btnEdit{
+    background-color: grey;
+    color:white;
+    padding: 5px 5px 5px 5px;
+    width:50px;
+    border: none;
+    margin-left: 10px;
+
+}
+.btnDelete{
+    background-color: red;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    width:50px;
+    border: none;
+    
+    margin-left: 10px;
+}

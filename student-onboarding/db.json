@@ -1,0 +1,147 @@
+{
+  "studentsData": [
+    {
+      "id": 1,
+      "studentName": "Ayushi Tyagi",
+      "DOB": "2020-12-28",
+      "category": "International",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": true,
+        "decelaration": true
+      },
+      "fatherName": "Amit Tyagi",
+      "motherName": "Manju Tyagi",
+      "lastClassScore": "85"
+    },
+    {
+      "id": 2,
+      "studentName": "Ayush Tyagi",
+      "DOB": "2020-12-28",
+      "category": "Domestic",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "decelaration": true,
+        "passport": true,
+        "policeClearance": true
+      },
+      "fatherName": "Amit Tyagi",
+      "motherName": "Manju Tyagi",
+      "lastClassScore": "85"
+    },
+    {
+      "id": 4,
+      "studentName": "Amit Tyagi",
+      "DOB": "2020-12-28",
+      "category": "Domestic",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": true,
+        "decelaration": false
+      },
+      "fatherName": "Kamlesh Tyagi",
+      "motherName": "Amit Tyagi",
+      "lastClassScore": "87"
+    },
+    {
+      "studentName": "Minni Tyagi",
+      "DOB": "2021-02-26",
+      "category": "International",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": true,
+        "decelaration": true
+      },
+      "fatherName": "Manju Tyagi",
+      "motherName": "Amit Tyagi",
+      "lastClassScore": "98",
+      "domicileError": "",
+      "birthCertificateError": "",
+      "marksheetsError": "",
+      "passportError": "",
+      "policeClearanceError": "",
+      "decelarationError": "",
+      "id": 5
+    },
+    {
+      "studentName": "Puneet Garg",
+      "DOB": "2021-02-06",
+      "category": "Domestic",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": false,
+        "decelaration": true
+      },
+      "fatherName": "Sarika Garg",
+      "motherName": "Navneet Garg",
+      "lastClassScore": "97",
+      "domicileError": "",
+      "birthCertificateError": "",
+      "marksheetsError": "",
+      "passportError": "",
+      "policeClearanceError": "",
+      "decelarationError": "",
+      "id": 6
+    },
+    {
+      "studentName": "Sarika",
+      "DOB": "2021-02-18",
+      "category": "Domestic",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": true,
+        "decelaration": true
+      },
+      "fatherName": "Manju Tyagi",
+      "motherName": "Amit Tyagi",
+      "lastClassScore": "98",
+      "domicileError": "",
+      "birthCertificateError": "",
+      "marksheetsError": "",
+      "passportError": "",
+      "policeClearanceError": "",
+      "decelarationError": "",
+      "id": 7
+    },
+    {
+      "studentName": "Ayushi Tyagi",
+      "DOB": "2021-02-26",
+      "category": "International",
+      "documents": {
+        "domicile": true,
+        "birthCertificate": true,
+        "marksheets": true,
+        "policeClearance": true,
+        "passport": true,
+        "decelaration": true
+      },
+      "fatherName": "Manju Tyagi",
+      "motherName": "Amit Tyagi",
+      "lastClassScore": "87",
+      "domicileError": "",
+      "birthCertificateError": "",
+      "marksheetsError": "",
+      "passportError": "",
+      "policeClearanceError": "",
+      "decelarationError": "",
+      "id": 9
+    }
+  ]
+}
